@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀自在菩薩如意輪念誦儀軌
+#+DATE: 2015-08-30 20:29:29.570011
+#+PROPERTY: JUAN 0
